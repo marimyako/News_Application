@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-TaskLab6Networking-TaskLab6NetworkingUITests/Pods-TaskLab6Networking-TaskLab6NetworkingUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
